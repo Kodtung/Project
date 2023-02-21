@@ -23,17 +23,17 @@
             </div>
         </div>
         <div class="form">
-            <form action="check_statement.php">
+            <form action="finish.php">
                 <div class="statement">
                     <button type="submit">Check Statement</button>
                 </div>
             </form>
-            <form action="withdraw.php">
+            <form action="finish.php">
                 <div class="withdraw">
                     <button type="submit">Withdraw</button>
                 </div>
             </form>
-            <form action="dispote.php">
+            <form action="finish.php">
                 <div class="dispote">
                     <button type="submit">Dispote</button>
                 </div>
